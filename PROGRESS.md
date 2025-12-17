@@ -9,7 +9,7 @@
 | :---: | :---: | :--- | :---: | :---: |
 | **001** |
 | **002** | 16 Dec 2025 | Control flow and logic — short-circuiting, truthiness, floating-point precision, ternary expressions | ✅ | [View](./week_1/day_2) |
-| **003** | 17 Dec 2025 | Loops & Iteration (Iterator Protocol, Accumulators) | ⬜ | [View](./week_1/day_3) |
+| **003** | 17 Dec 2025 | Loops & Iteration (Iterator Protocol, Accumulators) | ✅ | [View](./week_1/day_3) |
 | **004** | 18 Dec 2025 | | ⬜ | [View](./week_1/day_4) |
 | **005** | 19 Dec 2025 | | ⬜ | [View](./week_1/day_5) |
 | **006** | 20 Dec 2025 | | ⬜ | [View](./week_1/day_6) |
