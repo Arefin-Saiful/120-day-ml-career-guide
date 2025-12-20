@@ -12,7 +12,7 @@
 | **003** | 17 Dec 2025 | Loops & Iteration (Iterator Protocol, Accumulators) | ✅ | [View](./week_1/day_3) |
 | **004** | 18 Dec 2025 | Lists (Mutability, Slicing, Comprehensions) | ✅ | [View](./week_1/day_4) |
 | **005** | 19 Dec 2025 | Dictionaries (Hash Tables, Lookups, Merging) | ✅ | [View](./week_1/day_5) |
-| **006** | 20 Dec 2025 | | ⬜ | [View](./week_1/day_6) |
+| **006** | 20 Dec 2025 | Functions (Scope, Default Args, Returns) | ✅ | [View](./week_1/day_6) |
 | **007** | 21 Dec 2025 | Weekly review and recap | ⬜ | [View](./week_1/day_7) |
 
 ## Week 2
