@@ -18,7 +18,7 @@
 ## Week 2
 | Day | Date | Summary | Status | Link |
 | :---: | :---: | :--- | :---: | :---: |
-| **008** | 22 Dec 2025 | | ⬜ | |
+| **008** | 22 Dec 2025 | Time Complexity (Big O, List/String Performance) | ✅ | [View](./week_2/day_8) |
 | **009** | 23 Dec 2025 | | ⬜ | |
 | **010** | 24 Dec 2025 | | ⬜ | |
 | **011** | 25 Dec 2025 | | ⬜ | |
