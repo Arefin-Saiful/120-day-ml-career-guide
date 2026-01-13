@@ -22,7 +22,7 @@
 | **009** | 23 Dec 2025 | | ⬜ | |
 | **010** | 24 Dec 2025 | | ⬜ | |
 | **011** | 25 Dec 2025 | | ⬜ | |
-| **012** | 26 Dec 2025 | | ⬜ | |
+| **012** | 26 Dec 2025 | OOP (Classes, Inheritance, Magic Methods) | ✅ | [View](./week_2/day_12) |
 | **013** | 27 Dec 2025 | | ⬜ | |
 | **014** | 28 Dec 2025 | Weekly review and recap | ⬜ | |
 
